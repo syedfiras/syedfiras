@@ -51,6 +51,8 @@
 - 📱 **React Native Developer** crafting beautiful cross-platform experiences  
 - 🚀 Currently building apps with **Expo, TypeScript & Node.js**
 - 🧠 Learning **backend architecture & cloud services**
+- 🗄️ Working with **Supabase, MySQL & database design**
+- ☕ Exploring **Java** for robust backend solutions
 - 🤖 Fascinated by **AI-powered mobile applications**
 - 🏆 Love participating in **hackathons & building innovative solutions**
 - 🎯 **Goal:** Create apps that impact millions of lives
@@ -79,6 +81,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -98,6 +101,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+### 🗄️ Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -122,6 +131,8 @@
 | 📱 | Building production-ready **React Native apps** with **Expo** |
 | 🏗️ | Learning **clean architecture** & **scalable app patterns** |
 | 🔗 | Working with **REST APIs** & **backend integration** |
+| 🗄️ | Designing databases with **Supabase** & **MySQL** |
+| ☕ | Building robust backends with **Java** & **Spring Boot** |
 | 🤖 | Exploring **AI/ML** in mobile applications |
 | ☁️ | Diving into **cloud services** & **DevOps** |
 
@@ -139,15 +150,24 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15)
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/syedfiras">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedfiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15&count_private=true" alt="GitHub Stats" />
+  </a>
   
-  <br>
+  &nbsp;&nbsp;&nbsp;
   
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syedfiras&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&border_radius=15)
+  <!-- Top Languages Card -->
+  <a href="https://github.com/syedfiras">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15&langs_count=8&hide=procfile" alt="Top Languages" />
+  </a>
+
+  <br><br>
   
-  <br>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15)
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/syedfiras">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syedfiras&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&border_radius=15" alt="Streak Stats" />
+  </a>
 
 </div>
 
@@ -187,12 +207,14 @@
 
 ### 🎨 Developer Config
 
-javascript
+```javascript
 const syedFiras = {
   role: "React Native Developer 📱",
   education: "2nd Year CS Student 🎓",
   passion: "Mobile App Development 🚀",
   stack: ["React Native", "Expo", "TypeScript", "Node.js"],
+  databases: ["Supabase 🟢", "MySQL 🐬"],
+  languages: ["JavaScript", "TypeScript", "Python", "Java ☕", "C"],
   portfolio: "https://syedfiras.netlify.app",
   linkedIn: "https://www.linkedin.com/in/syedfiras7",
   currentFocus: "Building scalable mobile applications",
@@ -200,6 +222,8 @@ const syedFiras = {
   hobbies: ["Coding 💻", "Hackathons 🏆", "UI/UX Design 🎨"],
   motto: "Build. Ship. Improve. Repeat. ♾️"
 };
+```
 </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%92%9C;Let's+build+something+amazing+together!;Feel+free+to+reach+out!+%E2%9C%8C%EF%B8%8F" alt="Footer"/> </div>
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%92%9C;Let's+build+something+amazing+together!;Feel+free+to+reach+out!+%E2%9C%8C%EF%B8%8F" alt="Footer"/> </div> ```
