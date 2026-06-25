@@ -47,7 +47,7 @@
   <tr>
     <td>
       
-- 🎓 **2nd Year Computer Science Student** exploring the digital universe
+- 🎓 **3rd Year Computer Science Student** exploring the digital universe
 - 📱 **React Native Developer** crafting beautiful cross-platform experiences  
 - 🚀 Currently building apps with **Expo, TypeScript & Node.js**
 - 🧠 Learning **backend architecture & cloud services**
