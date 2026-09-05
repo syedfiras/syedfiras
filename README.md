@@ -4,7 +4,9 @@
 
 ### React Native Developer | Full Stack Developer | Computer Science Student
 
-<a href="https://syedfiras.dev/">Portfolio</a> • <a href="https://www.linkedin.com/in/syedfiras7">LinkedIn</a> • <a href="mailto:syedfiras06@gmail.com">Email</a>
+<a href="https://syedfiras.dev/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/syedfiras7">LinkedIn</a> •
+<a href="mailto:syedfiras06@gmail.com">Email</a>
 
 </div>
 
@@ -20,19 +22,19 @@ Currently working with React Native, Expo, TypeScript, Node.js, and Supabase, wh
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 JavaScript · TypeScript · Java · Python · C
 
-**Frontend & Mobile**
+### Frontend & Mobile
 
 React · React Native · Expo · Next.js · Tailwind CSS
 
-**Backend & Database**
+### Backend & Database
 
 Node.js · Express · Supabase · MySQL
 
-**Tools**
+### Tools
 
 Git · GitHub · VS Code · Figma · Postman
 
@@ -40,12 +42,12 @@ Git · GitHub · VS Code · Figma · Postman
 
 ## Current Focus
 
-* Production React Native applications
-* Scalable backend systems
-* REST APIs
-* Clean architecture
-* AI integration
-* Java & Spring Boot
+- Production React Native applications
+- Scalable backend systems
+- REST APIs
+- Clean architecture
+- AI integration
+- Java & Spring Boot
 
 ---
 
@@ -53,9 +55,21 @@ Git · GitHub · VS Code · Figma · Postman
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedfiras&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=syedfiras&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfiras&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfiras&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=syedfiras&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
